@@ -1,4 +1,3 @@
 # reverseCylindricalTransformation
-run reverseTransform.m
-
-you should create your calibration.mat by running calibration.m
+运行 reverseTransform.m
+可能需要自己制作标定图像通过calibration.m生成calibration.mat来完成别的柱面反变换。
